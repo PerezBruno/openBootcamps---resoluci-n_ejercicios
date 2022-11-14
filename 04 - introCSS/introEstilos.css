@@ -1,0 +1,23 @@
+.colores{
+    color:darkorange
+}
+
+.color-hexadecimal{
+    color: #6F9283;
+}
+
+.color-rgb{
+    color: rgb(103, 34, 172);
+}
+
+.color-rgba{
+    color: rgba(200, 20, 200, 0.85);
+}
+
+.fondo{
+    /* background-color: darkorchid; */
+    background-image: url(https://i.pinimg.com/564x/b1/31/0a/b1310a301398dc8c87f59e5dc9b37f40.jpg);
+    color: chocolate;
+    background-position: left bottom
+}
+
