@@ -1,0 +1,21 @@
+.div-1, .div-2{
+    background-color: red;
+    /* display: block; por defecto DIV tiene un display block*/
+}
+
+.span-1{
+    background-color: rgb(222, 235, 222);
+    /* display: inline; por defecto SPAN tiene un display inline*/
+    float: right;
+}
+.span-2{
+    background-color: rgb(116, 163, 116);
+    /* display: inline; por defecto SPAN tiene un display inline*/
+    float: left;
+}
+
+.img{
+    width: 50px;
+    /* display: inline-block; por defecto IMG tiene un display inline-block*/
+
+}

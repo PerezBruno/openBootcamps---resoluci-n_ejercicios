@@ -1,0 +1,27 @@
+.flex{
+    display: flex;
+    background-color: yellow;
+    height: 300px;
+    justify-content: space-around;
+    align-items: center;
+    /* flex-wrap: wrap; */
+}
+
+.contenido-1{
+    background-color: burlywood;
+    /* height: 200px; */
+    width: 100px;
+    border: 1px solid red;
+}
+.contenido-2{
+    background-color: burlywood;
+    /* height: 200px; */
+    width: 100px;
+    border: 1px solid red;
+}
+.contenido-3{
+    background-color: rgb(139, 87, 18);
+    /* height: 200px; */
+    width: 100px;
+    border: 1px solid red;
+}
