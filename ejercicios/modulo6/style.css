@@ -1,14 +1,14 @@
-.boton-cambiante:hover{
+
+
+.boton-cambiante:hover {
     background-color: green;
     color: white;
-    visibility: hidden;
 }
 
+.boton-cambiante::before {
+    content: "Pasa por encima"
+}
 
-.boton-cambiante:hover::before{
-
-    content: "¡Hecho!";
-    background-color: green;
-    color: white;
-    visibility: visible;
+.boton-cambiante:hover::before {
+    content: "¡Hecho!"
 }
