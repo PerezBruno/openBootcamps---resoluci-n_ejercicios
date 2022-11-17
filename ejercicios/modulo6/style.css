@@ -1,0 +1,14 @@
+.boton-cambiante:hover{
+    background-color: green;
+    color: white;
+    visibility: hidden;
+}
+
+
+.boton-cambiante:hover::before{
+
+    content: "¡Hecho!";
+    background-color: green;
+    color: white;
+    visibility: visible;
+}
